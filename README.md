@@ -209,10 +209,11 @@ BNPL-Customer-Merchant-Analytics
 ---
 
 
-# ▶️ Run the Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lmzT7b57QEhmLYLcvsqF4aKm_QX_yXVq?usp=sharing).
 
+## ▶️ Run the Notebook
+
+🔗 **[Open in Google Colab](https://colab.research.google.com/drive/1ImzT7b57QEhmLYLcvsqF4aKm_QX_yXVq?usp=sharing)**
 ---
 
 # 👨‍💻 Author
