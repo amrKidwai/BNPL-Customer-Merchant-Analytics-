@@ -2,7 +2,7 @@
 
 > **End-to-End Product Analytics Project inspired by Buy Now Pay Later (BNPL) companies like Tabby, Tamara, Klarna, and Affirm.**
 
-![Dashboard](Screenshot.png)
+![Dashboard](Dashboard.png)
 
 <p align="center">
 
@@ -212,7 +212,7 @@ BNPL-Customer-Merchant-Analytics
 
 Open directly in Google Colab:
 
-**🔗 https://colab.research.google.com/drive/YOUR_COLAB_LINK**
+**🔗 https://colab.research.google.com/drive/[YOUR_COLAB_LINK](https://colab.research.google.com/drive/1ImzT7b57QEhmLYLcvsqF4aKm_QX_yXVq?usp=sharing)**
 
 Or click the **Open in Colab** badge at the top of this README.
 
